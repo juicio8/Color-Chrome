@@ -31,6 +31,7 @@ input {
     height: 34px;
     border: 0.5px solid #D1D5DB;
     background-color: #E5E5E5;
+    cursor: pointer;
 }
 
 .select-div {
